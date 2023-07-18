@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x174826167b2ff75dea270a70f386ea4e1f0da5f6",
+  "SCAN_LINK": "https://bscscan.com/address/0x174826167b2ff75dea270a70f386ea4e1f0da5f6",
+  "NETWORK": {
+    "NAME": "Binance",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "PLALOMA",
+  "SYMBOL": "PLALOMA",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/#",
+  "SHOW_BACKGROUND": true
+}
